@@ -10,7 +10,7 @@
   <plugin name="cordova-plugin-dialogs"/>
   <plugin name="cordova-plugin-device"/>
   <plugin name="cordova-plugin-device-motion"/>
-  <plugin name="Compass" value="org.apache.cordova.CompassListener" />
+  <plugin name="cordova-plugin-device-orientation" />
     <feature name="Compass">
     <param name="android-package" value="org.apache.cordova.CompassListener" />
 </feature>
